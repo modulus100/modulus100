@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Since 2021 I'm focused on data engineering.
-Programing languges: Kotlin, Java, Python, Scala, JavaScript.  
+Since 2021 I'm focused on data engineering.  
+Programing languges: Kotlin, Java, Python, Scala, JavaScript.   
 Databases: PostgreSQL, Hazelcast, Redis, EventStoreDB, Elasticsearch, Cassandra, Snowflakr, EventStoreDB.  
 Other technologies: Spring Boot, Spring Cloud, Kafka, Spark, HIbernate, Liquibase, OpenShift, Docker.  
 
