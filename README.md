@@ -1,8 +1,6 @@
 ### Hi there 👋
  
-Programing languges: Kotlin, Java, Python, Scala, JavaScript.   
-Databases: PostgreSQL, Hazelcast, Redis, EventStoreDB, Elasticsearch, Cassandra, Snowflakr, EventStoreDB.  
-Other technologies: Spring Boot, Spring Cloud, Kafka, Spark, Hibernate, Liquibase, OpenShift, Docker.  
+At the moment focused on data streaming microservises development. In my spare time I research big data tools and topics. Tech stack I use: Spring Boot, WebFlux, Kotlin, Java, Elasticsearch, Hazelcast, Docker, OpenShift, Apache Kafka, Apache Spark, Python, Hibernate, PostgreSQL, EventStoreDB, Apache Cassandra, Apache Camel. Can do frontend with React and Angular but it's not in my focus.
 
 <!--
 **modulus100/modulus100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
